@@ -45,7 +45,8 @@ All artefacts in this portfolio connect to my goal of becoming a professional so
 My CV and mock interview demonstrate both my technical ability and communication skills, showing my readiness for the workplace.
 
 ---
-
+   # OPEN  MY CV ON THIS LINK
+    https://github.com/Tlangelani23/Tlangelani.io/blob/main/TLANGELANI%20CHAUKE-CV.pdf
 #  MY CV (Markdown)
 
 ##  Profile
