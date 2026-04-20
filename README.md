@@ -144,7 +144,10 @@ I practiced answering questions and recorded my responses.
 I improved my confidence, communication skills, and ability to present myself professionally.
 
 ---
+  #   GITHUB PAGES LINK
 
+    https://github.com/Tlangelani23/Tlangelani.io/deployments
+    
 #  REFLECTION ON GITHUB PAGES (STAR METHOD)
 
 ##  Situation
