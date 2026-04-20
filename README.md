@@ -20,8 +20,8 @@ This portfolio includes the following artefacts:
 
 The selected artefacts demonstrate my work readiness:
 
-- CV → shows my qualifications, skills, and experience  
-- Mock Interview → demonstrates communication skills and professionalism  
+- CV :shows my qualifications, skills, and experience  
+- Mock Interview:  demonstrates communication skills and professionalism  
 
 ---
 
