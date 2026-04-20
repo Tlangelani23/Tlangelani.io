@@ -105,7 +105,8 @@ Available upon request
 
 # MOCK INTERVIEW VIDEO
 
-[ Watch My Mock Interview](https://your-video-link.com)
+[ Watch My Mock Interview] https://youtube.com/shorts/YuyVbX3Y4to?feature=share)
+
 
 ---
 
